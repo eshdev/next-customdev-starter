@@ -1,7 +1,9 @@
-import '../styles/globals.css';
+import { useState, useEffect } from 'react';
+import ReplaceMe from '../components/replaceme';
+import '../components/replaceme';
 
-function App({ Component, pageProps }) {
-  return <Component {...pageProps} />;
-}
+var App = () => {
+  return <ReplaceMe />;
+};
 
 export default App;

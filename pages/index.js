@@ -1,5 +1,7 @@
-import ReplaceMe from '../components/replaceme';
+import App from './_app';
 
-export default function Home() {
-  return <ReplaceMe />;
-}
+var Home = () => {
+  return <App />;
+};
+
+export default Home;
