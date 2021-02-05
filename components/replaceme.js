@@ -16,7 +16,7 @@ var ReplaceMe = () => {
 
         <p className={styles.description}>
           Get started by editing{' '}
-          <code className={styles.code}>pages/index.js</code>
+          <code className={styles.code}>pages/_app.js</code>
           <br />
           Remove the ReplaceMe component, and have at it.
         </p>
