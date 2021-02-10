@@ -1,5 +1,5 @@
 import Head from 'next/head';
-import styles from '../styles/Home.module.css';
+import styles from '../../styles/Home.module.css';
 
 var ReplaceMe = () => {
   return (
@@ -16,7 +16,7 @@ var ReplaceMe = () => {
 
         <p className={styles.description}>
           Get started by editing{' '}
-          <code className={styles.code}>pages/_app.js</code>
+          <code className={styles.code}>pages/index.js</code>
           <br />
           Remove the ReplaceMe component, and have at it.
         </p>
