@@ -1,8 +1,7 @@
-import 'bootstrap/dist/css/bootstrap.min.css';
-import App from './_app';
+import ReplaceMe from '../src/components/replaceme';
 
-var Home = () => {
-  return <App />;
+var Session = () => {
+  return <ReplaceMe />;
 };
 
-export default Home;
+export default Session;
